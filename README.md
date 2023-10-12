@@ -17,9 +17,9 @@
 
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=red" /> <img src="https://img.shields.io/badge/Figma-F05032?style=flat&logo=figma&logoColor=white" />
 
-## Project
+## Projects
 
-### Nanum 프로젝트🙌
+### Nanum 🙌
 1. 공공 **API**를 활용해 전국의 봉사활동에 관한 정보 제공과 봉사 신청을 통한 관할기관을 매칭해주는 홈페이지
 2. 수행기간: 23.08 ~ 23.09
 3. 깃허브 주소: https://github.com/BarBamBa/final_nanum_project
@@ -27,7 +27,7 @@
 
 <img width="80%" src="https://github.com/TerRanda/TerRanda/assets/128760822/0e167e92-55f6-414a-9136-1c674dede51e"/>
 
-### Marrimo 프로젝트💌
+### Marrimo 💌
 1. 사용자가 받고 싶은 결혼 축하 선물을 목록으로 관리하고 URL을 통해 지인들과 목록을 공유할 수 있는 웹사이트
 2. 수행기간: 23.04 ~ 23.05
 3. 깃허브 주소: https://github.com/chickencoc/RGBpepero_Semi_project
